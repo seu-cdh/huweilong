@@ -10,14 +10,22 @@ cv:
     - network: GitHub
       username: seu-cdh
 
-  sections:
+    sections:
     Education:
       - institution: Southeast University
         location: Nanjing, China
-        area: Vehicle Engineering
+        area: YOUR MASTER'S PROGRAM
         studyType: Master's Degree
         start_date: 2025
         end_date: Present
+        highlights: []
+
+      - institution: Soochow University
+        location: Suzhou, China
+        area: Mechanical Engineering
+        studyType: Bachelor of Engineering
+        start_date: 2021
+        end_date: 2025
         highlights: []
 
     Interests:
