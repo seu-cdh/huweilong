@@ -1,6 +1,6 @@
 cv:
   name: Dehui Chen
-  label: First-year Master's Student
+  label: Master's Student
   email: 220250421@seu.edu.cn
   location: Nanjing, China
   image: ""
@@ -10,14 +10,14 @@ cv:
     - network: GitHub
       username: seu-cdh
 
-    sections:
+  sections:
     Education:
       - institution: Southeast University
         location: Nanjing, China
-        area: YOUR MASTER'S PROGRAM
+        area: Engineering
         studyType: Master's Degree
         start_date: 2025
-        end_date: Present
+        end_date: present
         highlights: []
 
       - institution: Soochow University
@@ -27,6 +27,10 @@ cv:
         start_date: 2021
         end_date: 2025
         highlights: []
+
+    Experience: []
+
+    Volunteer: []
 
     Interests:
       - name: Research Interests
