@@ -2,25 +2,28 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Dehui
+title: Weilong Hu # the website title (if blank, full name will be used instead)
+first_name: Weilong
 middle_name: " "
-last_name: Chen
+last_name: Hu
 contact_note: >
   Email is the preferred way to contact me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic homepage of Dehui Chen, a master's student at Southeast University.
+  Academic homepage of Weilong Hu, an expert in intelligent assisted driving.
 footer_text: >
   Powered by Jekyll with the al-folio theme. Hosted by GitHub Pages.
-keywords: autonomous driving, reinforcement learning, scenario generation, intelligent transportation systems
+keywords: end-to-end autonomous driving, automatic parking, highway NOA, intelligent transportation systems
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🚗 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://seu-cdh.github.io
-baseurl:
+baseurl: /huweilong
 last_updated: true
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
+
+# Avatar image (use qirui.png)
+avatar: assets/img/qirui.png
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -339,8 +342,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: Chen
-  first_name: Dehui
+  last_name: Hu
+  first_name: Weilong
 
   style: apa
   locale: en
@@ -608,7 +611,7 @@ third_party_libraries:
     version: "1.0.8"
   tocbot:
     integrity:
-      css: "sha256-zTN0r+0OKaIv2xqeNNIYxNk0pWJ6+IqPGc1iDgVzWF0="
+      css: "sha256-zTN0r+0OKaIv2xqeNNIxYk0pWJ6+IqPGc1iDgVzWF0="
       js: "sha256-lo/r+jQ81wWrxdIiiiEEd538z4+dTJTt+leOuAS7GCw="
     url:
       css: "https://cdn.jsdelivr.net/npm/tocbot@{{version}}/dist/tocbot.css"
