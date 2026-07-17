@@ -9,10 +9,10 @@ last_name: Hu
 contact_note: >
   Email is the preferred way to contact me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic homepage of Weilong Hu, an expert in intelligent assisted driving.
+  Academic homepage of Weilong Hu, Vice President at the Chery Intelligent Driving Center.
 footer_text: >
   Powered by Jekyll with the al-folio theme. Hosted by GitHub Pages.
-keywords: end-to-end autonomous driving, automatic parking, highway NOA, intelligent transportation systems
+keywords: intelligent driving, autonomous driving, end-to-end autonomous driving, automatic parking, highway NOA, intelligent transportation systems
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🚗 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
