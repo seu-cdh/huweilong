@@ -3,15 +3,15 @@ layout: about
 title: about
 permalink: /
 nav: false
-subtitle: Master's Student · Southeast University
+subtitle: 'Vice President · Chery Intelligent Driving Center'
 
 profile:
   align: right
-  image: dehui.jpg
+  image: qirui.png
   image_circular: false
   more_info: >
-    <p>Southeast University</p>
-    <p>Nanjing, China</p>
+    <p>Chery Intelligent Driving Center</p>
+    <p>China</p>
 
 selected_papers: false
 social: false
@@ -31,14 +31,20 @@ latest_posts:
 }
 </style>
 
-I am currently a first-year master's student at **Southeast University**. My research interests include autonomous driving, reinforcement learning, scenario generation, and intelligent transportation systems.
+I am a Vice President at the **Chery Intelligent Driving Center** My professional and research interests include intelligent driving, autonomous driving, end-to-end driving systems, automatic parking, highway navigation assistance, and intelligent transportation systems.
 
-**Email:** [220250421@seu.edu.cn](mailto:220250421@seu.edu.cn)  
-**GitHub:** [seu-cdh](https://github.com/seu-cdh)
+**Email:** [yaohongyi3@mychery.com](mailto:yaohongyi3@mychery.com)
 
-## Research Interests
+## Professional Interests
 
+- Intelligent Driving
 - Autonomous Driving
-- Reinforcement Learning
-- Scenario Generation
+- End-to-End Driving Systems
+- Automatic Parking
+- Highway Navigation Assistance
 - Intelligent Transportation Systems
+
+## Education
+
+- **Ph.D. in Vehicle Engineering**, School of Automotive and Transportation Engineering, Hefei University of Technology, Sep. 2011 – Jan. 2016
+- **B.Eng. in Vehicle Engineering**, Hefei University of Technology, Sep. 2007 – Jun. 2011
